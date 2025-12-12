@@ -1,2 +1,0 @@
-# lola
-Lola compiler source
