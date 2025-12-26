@@ -1,0 +1,8 @@
+Lola compiler
+-------------
+
+The build process is extremely complex: `make`. Installation management:
+`make install` and `make uninstall`.
+
+The following command `lola <lolafile> <verilogfile>` will translate the Lola
+text into Verilog, which then needs to be compiled.
